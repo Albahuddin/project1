@@ -1,0 +1,33 @@
+div{
+    height: auto;
+    max-width: 1000px;
+    position: absolute;
+    /* background-color:orange ; */
+    /* top: 50%;
+    left: 20%; */
+}
+body{
+    background-color: black;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+h2{
+    display: inline-block;
+    color: white;
+    font-size: 10rem;
+    font-weight: 300;
+    /* background-color: blue; */
+    text-transform: capitalize;
+
+
+}
+#name{
+    background-color: orangered;
+    color: white;
+    font-size: 7.5rem;
+    font-size: 500;
+    margin-left: 10px;
+}
