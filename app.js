@@ -7,7 +7,7 @@ function randIx(arr){
     return random
 }
 setInterval(()=>{
-    let random=randIx(names)
+    // let random=randIx(names)
     document.querySelector("#name").textContent= names[random]
 
 },500)
